@@ -1,0 +1,26 @@
+.jdl{
+	background-color:grey;
+	color:white;
+	line-height:1cm;
+	text-align:center;
+}
+.btn{
+	background-color:black;
+	border:2px;
+	border-radius:11px;
+	line-height:1cm;
+	color:white;
+}
+.eh{
+word-spacing:1cm;
+line-through:6cm;
+font-size:12%;
+}
+.atr{
+	border-radius:11px;
+	line-height:0.5cm;	
+}
+.hh{
+	border-radius:11px;
+	line-height:3cm;	
+}
